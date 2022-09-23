@@ -12,8 +12,11 @@
       </h2>
     </center>
     <br>
-    <video width="800" height="500" controls>
-	<source src="https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8" type="x-mpeg">
-</video>
+    <script src="/path/to/video.js"></script>
+<script src="/path/to/videojs-hls.min.js"></script>
+<script>
+  var player = videojs('video');
+  player.hls('https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8');
+</script>
   </body>
 </html>
