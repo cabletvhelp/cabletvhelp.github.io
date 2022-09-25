@@ -1,34 +1,64 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 		<!--	created with www.mysitemapgenerator.com	-->
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-	<loc>https://cabletvhelp.github.io/</loc>
-	<lastmod>2022-09-23T22:42:03+01:00</lastmod>
+	<loc>https://www.cabletvhelp.org/</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://cabletvhelp.github.io/xfinity.html</loc>
-	<lastmod>2022-09-23T22:42:03+01:00</lastmod>
+	<loc>https://www.cabletvhelp.org/xfinity</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://cabletvhelp.github.io/spectrum.html</loc>
-	<lastmod>2022-09-23T22:42:03+01:00</lastmod>
+	<loc>https://www.cabletvhelp.org/spectrum</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://cabletvhelp.github.io/at&amp;t.html</loc>
-	<lastmod>2022-09-23T22:42:03+01:00</lastmod>
+	<loc>https://www.cabletvhelp.org/at&amp;t</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://cabletvhelp.github.io/fios.html</loc>
-	<lastmod>2022-09-23T22:42:03+01:00</lastmod>
+	<loc>https://www.cabletvhelp.org/fios</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://cabletvhelp.github.io/dish.html</loc>
-	<lastmod>2022-09-23T22:42:03+01:00</lastmod>
+	<loc>https://www.cabletvhelp.org/dish</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.cabletvhelp.org/sling</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.cabletvhelp.org/freechannel</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.cabletvhelp.org/cable</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.cabletvhelp.org/channels</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.cabletvhelp.org/channels/guide</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.cabletvhelp.org/policy</loc>
+	<lastmod>2022-09-25T18:38:05+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 </urlset>
