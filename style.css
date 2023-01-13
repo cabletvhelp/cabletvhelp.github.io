@@ -1,0 +1,28 @@
+
+      body {
+        font-family: sans-serif;
+        text-align: center;
+        background-color: #36393F;
+      }
+      h1 {
+        color: #FFFFFF;
+      }
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+      li {
+        display: inline-block;
+        margin: 0 10px;
+      }
+      a {
+        color: #1a75ff;
+        text-decoration: none;
+      }
+      a:hover {
+        color: #0050b3;
+      }
+      p {
+      color: #FFFFFF;
+       }
+    
